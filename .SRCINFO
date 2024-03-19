@@ -1,6 +1,6 @@
 pkgbase = ros-noetic-rqt-moveit
 	pkgdesc = ROS - An rqt-based tool that assists monitoring tasks for MoveIt! motion planner developers and users.
-	pkgver = 0.5.10
+	pkgver = 0.5.11
 	pkgrel = 1
 	url = https://wiki.ros.org/rqt_moveit
 	arch = any
@@ -17,8 +17,7 @@ pkgbase = ros-noetic-rqt-moveit
 	depends = ros-noetic-rqt-gui
 	depends = ros-noetic-sensor-msgs
 	depends = ros-noetic-rospy
-	source = ros-noetic-rqt-moveit-0.5.10.tar.gz::https://github.com/ros-visualization/rqt_moveit/archive/0.5.10.tar.gz
-	sha256sums = 8a18851215b6a13718b3d6d66a466282b5a85269156549aee95cf87c5f12b38f
+	source = ros-noetic-rqt-moveit-0.5.11.tar.gz::https://github.com/ros-visualization/rqt_moveit/archive/0.5.11.tar.gz
+	sha256sums = 8778f5d5c636b308ecbad9eec1d34696e3a28440ca586aa713deabf318f78676
 
 pkgname = ros-noetic-rqt-moveit
-
